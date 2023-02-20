@@ -19,6 +19,8 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 I specialize in building backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also have a YouTube Channel about the world behind the screen which involves software development, system designs, databases, servers, optimisation and general purpose technologies.  
 
+[![Manuel Zavatta { Devs Channel }](https://raw.githubusercontent.com/Zavy86/Zavy86/master/assets/youtube.jpg)]([https://youtu.be/XBMZjSGpAdY](https://youtu.be/XBMZjSGpAdY) "Watch Manuel Zavatta { Devs Channel } on YouTube")
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
